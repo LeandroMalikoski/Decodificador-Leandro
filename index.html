@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../../Decodificador%20Leandro/styles/style.css">
+    <title>Decodificador Oracle</title>
+</head>
+<body>
+<header></header>
+<main>
+    <div class="logo-box">
+        <img class="logo" src="../../Decodificador%20Leandro/images/Logo.png" alt="Logo Alura">
+    </div>
+    <section class="fun-container">
+        <label for="getText"></label><textarea id="getText" class="main-text" placeholder="Digite seu texto aqui..."></textarea>
+        <div class="atencao">
+            <img class="icon-atencao" src="../../Decodificador%20Leandro/images/bi_exclamation-circle-fill.png" alt="Atenção:">
+            <p class="apenas">Apenas letras minúsculas e sem acento.</p>
+        </div>
+        <div class="button-box">
+            <button type="button" onclick="criptografar()" class="button-criptografar">Criptografar</button>
+            <button type="button" onclick="descriptografar()" class="button-descriptografar">Descriptografar</button>
+        </div>
+    </section>
+    <section class="fun-result">
+        <img class="result-img" src="../../Decodificador%20Leandro/images/noresult.svg" alt="Nenhum texto encontrado">
+        <div class="result-text">
+            <h2 class="result-h">Nenhuma mensagem encontrada</h2>
+            <p class="result-p">Digite um texto que você deseja criptografar ou descriptografar.</p>
+        </div>
+    </section>
+</main>
+<footer>Desenvolvido por Leandro</footer>
+<script src="../../Decodificador%20Leandro/scripts/script.js" defer></script>
+</body>
+</html>
