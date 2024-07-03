@@ -200,24 +200,6 @@ main {
     background-color: var(--color-3);
 }
 
-@media (max-width: 600px) {
-    main {
-        justify-content: space-between;
-        flex-direction: column;
-        height: 80%;
-    }
-
-    .fun-result {
-        width: 100%;
-        height: 30%;
-        justify-content: center ;
-        align-items: center;
-    }
-
-    .result-img {
-        display: none;
-    }
-}
 @media (min-width: 3840px) {
     body {
         width: 50%;
