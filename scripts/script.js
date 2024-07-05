@@ -1,26 +1,29 @@
-let codigoNormal = ['a', 'e', 'i', 'o', 'u'];
-let codigoCodificado = ['ai', 'enter', 'imes', 'ober', 'ufat'];
-let texto;
+let codigoNormal = ['e', 'i', 'a', 'o', 'u'];
+let codigoCodificado = ['enter', 'imes', 'ai', 'ober', 'ufat'];
 
 function getText() {
-    texto = document.getElementById('getText').value;
-    return texto;
+    return document.getElementById('getText').value;
 }
 
 function criptografar() {
-    getText()
+    let texto = getText();
     for (let i = 0; i < codigoNormal.length; i++) {
         texto = texto.replaceAll(codigoNormal[i], codigoCodificado[i]);
     }
-    console.log(texto)
+    if (texto.length === 0){
+        alert('Insira um texto');
+    }
+    else {
+        alert(texto);
+    }
     return texto;
 }
 
 function descriptografar() {
-    getText()
+    let texto = getText();
     for (let i = 0; i < codigoNormal.length; i++) {
         texto = texto.replaceAll(codigoCodificado[i], codigoNormal[i]);
     }
-    console.log(texto)
+    alert(texto);
     return texto;
 }
