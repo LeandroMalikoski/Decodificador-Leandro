@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="./styles/style.css">
     <title>Decodificador Oracle</title>
+    <link rel="icon" href="images/Logo.png">
 </head>
 <body>
 <header></header>
@@ -21,16 +22,18 @@
             <p class="apenas">Apenas letras minúsculas e sem acento.</p>
         </div>
         <div class="button-box">
-            <button type="button" onclick="criptografar(); mostrarResultado()" class="button-criptografar">Criptografar</button>
+            <button type="button" onclick="criptografar()" class="button-criptografar" id="button-criptografar">Criptografar</button>
             <button type="button" onclick="descriptografar()" class="button-descriptografar">Descriptografar</button>
         </div>
     </section>
-    <section class="fun-result">
-        <img class="result-img" src="./images/noresult.svg" alt="Nenhum texto encontrado">
-        <div class="result-text">
+    <section class="fun-result" id="fun-result">
+        <p class="result" id="result"></p>
+        <img class="result-img" id="result-img" src="./images/noresult.svg" alt="Nenhum texto encontrado">
+        <div class="result-text" id="result-text">
             <h2 class="result-h">Nenhuma mensagem encontrada</h2>
             <p class="result-p">Digite um texto que você deseja criptografar ou descriptografar.</p>
         </div>
+        <button class="button-copy" id="button-copy">Copiar</button>
     </section>
 </main>
 <footer>Desenvolvido por Leandro</footer>
