@@ -7,7 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 # Manual Ignore
-.idea
 .idea/inspectionProfiles
 .idea/misc.xml
 .idea/modules.xml
