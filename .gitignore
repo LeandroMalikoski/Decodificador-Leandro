@@ -6,8 +6,3 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-# Manual Ignore
-.idea/inspectionProfiles
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
