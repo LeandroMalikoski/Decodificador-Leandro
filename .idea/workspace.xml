@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82e79684-6131-4894-9067-ce02d4284b30" name="Changes" comment="1.9">
+      <change beforePath="$PROJECT_DIR$/.idea/Decodificador Leandro.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeandroMalikoski&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:LeandroMalikoski/Decodificador-Leandro.git&quot;,
+    &quot;accountId&quot;: &quot;bff669f5-5013-47d3-a88d-9cae3e6af71e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2il1E9FjI5VBbsgo31N5v84C5eH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/uleon/Desktop/Oracle Projects/Decodificador Leandro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "consents",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uleon\Desktop\Decodificador Leandro\.idea" />
+      <recent name="C:\Users\uleon\Desktop\Decodificador Leandro" />
+      <recent name="C:\Users\uleon\Desktop\Decodificador Leandro\scripts" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82e79684-6131-4894-9067-ce02d4284b30" name="Changes" comment="" />
+      <created>1720050236386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720050236386</updated>
+      <workItem from="1720050237480" duration="1664000" />
+      <workItem from="1720202994253" duration="8352000" />
+      <workItem from="1720273394118" duration="10261000" />
+      <workItem from="1720304237756" duration="52000" />
+      <workItem from="1720448537149" duration="12460000" />
+      <workItem from="1720466026970" duration="5440000" />
+      <workItem from="1720545112270" duration="383000" />
+      <workItem from="1720545520576" duration="825000" />
+      <workItem from="1720546494331" duration="134000" />
+      <workItem from="1720546709942" duration="185000" />
+      <workItem from="1720546906630" duration="104000" />
+      <workItem from="1720547038623" duration="2000" />
+      <workItem from="1720547051383" duration="319000" />
+      <workItem from="1720547433418" duration="556000" />
+      <workItem from="1720916725662" duration="16000" />
+      <workItem from="1720963199112" duration="3000" />
+      <workItem from="1720977113454" duration="4000" />
+      <workItem from="1721138891490" duration="45000" />
+      <workItem from="1721139271336" duration="100000" />
+      <workItem from="1721139469955" duration="42000" />
+      <workItem from="1721139524166" duration="6000" />
+      <workItem from="1721139566813" duration="7000" />
+      <workItem from="1721139643096" duration="2000" />
+      <workItem from="1721139666887" duration="133000" />
+      <workItem from="1721140193738" duration="169000" />
+      <workItem from="1721140782575" duration="42000" />
+      <workItem from="1721140876679" duration="268000" />
+      <workItem from="1721141230702" duration="8000" />
+      <workItem from="1721141468495" duration="26000" />
+      <workItem from="1721141539313" duration="161000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <option name="closed" value="true" />
+      <created>1720050450299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720050450299</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.0">
+      <option name="closed" value="true" />
+      <created>1720050653912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720050653912</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.1">
+      <option name="closed" value="true" />
+      <created>1720210528971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720210528971</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.2">
+      <option name="closed" value="true" />
+      <created>1720282839056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720282839056</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.3">
+      <option name="closed" value="true" />
+      <created>1720469479117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720469479117</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.4">
+      <option name="closed" value="true" />
+      <created>1720469911624</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720469911624</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.5">
+      <option name="closed" value="true" />
+      <created>1720470105917</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720470105917</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1.6">
+      <option name="closed" value="true" />
+      <created>1720547288955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720547288955</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1.8">
+      <option name="closed" value="true" />
+      <created>1721139309068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721139309068</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1.9">
+      <option name="closed" value="true" />
+      <created>1721140993024</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721140993024</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1.9">
+      <option name="closed" value="true" />
+      <created>1721141101906</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721141101906</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <MESSAGE value="1.1" />
+    <MESSAGE value="1.2" />
+    <MESSAGE value="1.3" />
+    <MESSAGE value="1.4" />
+    <MESSAGE value="1.5" />
+    <MESSAGE value="1.6" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore" />
+    <MESSAGE value="1.8" />
+    <MESSAGE value="1.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.9" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
