@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82e79684-6131-4894-9067-ce02d4284b30" name="Changes" comment="2.0">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uleon\Desktop\Oracle Projects\Decodificador Leandro" />
       <recent name="C:\Users\uleon\Desktop\Decodificador Leandro\.idea" />
       <recent name="C:\Users\uleon\Desktop\Decodificador Leandro" />
       <recent name="C:\Users\uleon\Desktop\Decodificador Leandro\scripts" />
@@ -111,7 +112,7 @@
       <workItem from="1721140876679" duration="268000" />
       <workItem from="1721141230702" duration="8000" />
       <workItem from="1721141468495" duration="26000" />
-      <workItem from="1721141539313" duration="295000" />
+      <workItem from="1721141539313" duration="389000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <option name="closed" value="true" />
@@ -209,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721141730906</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2.0">
+      <option name="closed" value="true" />
+      <created>1721141841205</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721141841205</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
