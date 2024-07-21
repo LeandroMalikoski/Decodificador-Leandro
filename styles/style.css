@@ -135,6 +135,7 @@ main {
     justify-content: left;
     align-content: center;
     gap: 5px;
+    margin-left: 16px;
 }
 
 .icon-atencao {
@@ -283,7 +284,7 @@ main {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 850px) {
 
 
     html {
